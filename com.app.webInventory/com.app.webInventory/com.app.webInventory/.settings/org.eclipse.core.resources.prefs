@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/app/inventory/ProductController.java=UTF-8
+encoding//src/main/java/com/app/inventory/StockCheckController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/addStaff.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/addStock.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/addStockInward.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/addprovider.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/editStock.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/editStockInward.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/listStockCheck.jsp=UTF-8
